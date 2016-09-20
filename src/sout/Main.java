@@ -1,3 +1,5 @@
+package sout;
+
 /**
  * Created by Артем on 20.09.2016.
  */
