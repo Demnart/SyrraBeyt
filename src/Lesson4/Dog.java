@@ -1,7 +1,4 @@
-package Lesson6;
-
-import java.util.AbstractCollection;
-import java.util.Arrays;
+package Lesson4;
 
 /**
  * Created by Артем on 22.09.2016.
