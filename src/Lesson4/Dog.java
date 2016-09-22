@@ -17,8 +17,8 @@ public class Dog {
         }
     }
         void show(){
-        for (Dog dog1 : dog) {
-            System.out.printf("Возраст собаки %d\n",dog1.age);
+        for (Dog dog1 : dog) {//Тут мы пробегаемся по массиву dog и присваеваем каждый элемент массива переменной dog1
+            System.out.printf("Возраст собаки %d\n",dog1.age);// После чего выводим все на экран
         }
     }
 
