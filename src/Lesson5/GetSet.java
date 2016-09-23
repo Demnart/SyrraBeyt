@@ -11,7 +11,8 @@ public class GetSet {
         return age;
     }
 
-    public String getName() {
+    public String getName() {//Переменные методов всегда хранят значение для примитивов 0, для ссылок на обьект null
+
         return name;
     }
 }
