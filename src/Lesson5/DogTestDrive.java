@@ -16,6 +16,9 @@ public class DogTestDrive {
         Dog dog2 = new Dog();
         dog2.size = 15;
         dog2.bark();
+        Dog dog3 = new Dog();
+        dog3.size = 50;
+        dog3.bark(3);// Мы передаем аргумент методу лаять
 
     }
 }
